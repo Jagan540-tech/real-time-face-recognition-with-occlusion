@@ -7,3 +7,4 @@ __pycache__/
 *.npy
 
 data/models/
+data/known_faces/
