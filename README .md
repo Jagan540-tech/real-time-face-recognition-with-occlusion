@@ -124,6 +124,15 @@ Instructions:
 
 ---
 
+## Download Pretrained Models
+
+Large pretrained model files are not included in this repository due to GitHub size limitations.
+Download these files manually and place them inside:
+data/models/
+
+- sam_vit_h_4b8939.pth
+- dlib_face_recognition_resnet_model_v1.dat
+  
 # 🧠 Training the Model
 
 Run:
@@ -261,7 +270,10 @@ The SQLite database stores:
 
 # 👨‍💻 Author
 
-Jagan V
+V Jagan
+Siyana A
+Lisha John
+Sherin Ebadhi H
 
 B.Tech Computer science
 College of Engineering and Management Punnapra, Kerala
