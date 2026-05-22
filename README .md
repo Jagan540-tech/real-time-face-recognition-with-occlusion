@@ -270,9 +270,9 @@ The SQLite database stores:
 
 # 👨‍💻 Author
 
-V Jagan
-Siyana A
-Lisha John
+V Jagan,
+Siyana A,
+Lisha John,
 Sherin Ebadhi H
 
 B.Tech Computer science
