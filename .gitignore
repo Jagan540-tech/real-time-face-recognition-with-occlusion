@@ -1,0 +1,9 @@
+sam_env/
+.idea/
+__pycache__/
+*.pyc
+*.pth
+*.dat
+*.npy
+
+data/models/
